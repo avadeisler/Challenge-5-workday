@@ -1,5 +1,9 @@
 # Challenge-5-workday
 
+URL:
+
+https://avadeisler.github.io/Challenge-5-workday/
+
 A calendar challenge using APIs and DayJS
 
 Link to application:
@@ -23,3 +27,7 @@ THEN the saved events persist
 I definitely struggled the most with the javaScript part of this. The HTML seemed mostly pretty straightforward as well as the CSS. I went with a more feminine poppy color scheme.
 
 Screenshots:
+
+![Screenshot 2024-04-17 210558](https://github.com/avadeisler/pre-work-study-guide/assets/139513258/20c55805-ec6a-4ea5-a697-715e8158b3f4)
+
+![Screenshot 2024-04-17 210632](https://github.com/avadeisler/pre-work-study-guide/assets/139513258/475b0fce-b865-45b7-957c-bba15b98bcb9)
