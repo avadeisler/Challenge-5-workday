@@ -44,8 +44,8 @@ saveBtn.on("click", function() {
     localStorage.setItem(time, plan);
 });
 
-// WHEN I refresh the page
-// THEN the saved events persist
+// WHEN I refresh the page, should show saved plans
+// Having a hard time making this work.
 function usePlanner() {
 
     $(".hour").each(function() {
