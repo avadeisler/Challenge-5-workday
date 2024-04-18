@@ -1,4 +1,5 @@
 # Challenge-5-workday
+
 A calendar challenge using APIs and DayJS
 
 Link to application:
@@ -19,4 +20,5 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 
+I definitely struggled the most with the javaScript part of this. The HTML seemed mostly pretty straightforward as well as the CSS. I went with a more feminine poppy color scheme.
 Screenshots:
